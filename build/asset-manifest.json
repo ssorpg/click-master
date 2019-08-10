@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3e7af5e8.chunk.css",
+    "main.js": "/static/js/main.fb54b80b.chunk.js",
+    "main.js.map": "/static/js/main.fb54b80b.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.3f18eff6.js",
+    "runtime~main.js.map": "/static/js/runtime~main.3f18eff6.js.map",
+    "static/js/2.5db88b5d.chunk.js": "/static/js/2.5db88b5d.chunk.js",
+    "static/js/2.5db88b5d.chunk.js.map": "/static/js/2.5db88b5d.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.528cfece5a3a299e8140d8912504c9b9.js": "/precache-manifest.528cfece5a3a299e8140d8912504c9b9.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.3e7af5e8.chunk.css.map": "/static/css/main.3e7af5e8.chunk.css.map",
+    "static/media/Alfonse.png": "/static/media/Alfonse.950b1c35.png",
+    "static/media/Alm Saint-King.png": "/static/media/Alm Saint-King.d2deb780.png",
+    "static/media/Alm.png": "/static/media/Alm.d34e7378.png",
+    "static/media/Amelia.png": "/static/media/Amelia.916b4dd9.png",
+    "static/media/Anna.png": "/static/media/Anna.3cef0e13.png",
+    "static/media/Arvis.png": "/static/media/Arvis.343770db.png",
+    "static/media/Azura Performing Arts.png": "/static/media/Azura Performing Arts.322f8b9d.png",
+    "static/media/Bartre.png": "/static/media/Bartre.0042cb51.png",
+    "static/media/Celica Fallen Heroes.png": "/static/media/Celica Fallen Heroes.0c4378a0.png",
+    "static/media/Ike Brave Heroes.png": "/static/media/Ike Brave Heroes.1f4841e4.png",
+    "static/media/Lucina Brave Heroes.png": "/static/media/Lucina Brave Heroes.62148529.png",
+    "static/media/Takumi Fallen Heroes.png": "/static/media/Takumi Fallen Heroes.6bb5fd4e.png"
+  }
+}
