@@ -12,7 +12,7 @@ Click Master is a website that utilizes Node and React to play a classic memory 
 4. Open your browser, log to localhost:3000 and start playing Click Master!
 
 # How it Works
-![Click-Master](https://github.com/ssorpg/News-Comments/blob/master/click-master.png)
+![Click-Master](https://github.com/ssorpg/Click-Master/blob/master/click-master.png)
 
 Click on a character's portrait on the page to guess that you haven't picked them before. If you haven't, the page will notify you of your success. However, if you've already picked that character once before the game will reset.
 
