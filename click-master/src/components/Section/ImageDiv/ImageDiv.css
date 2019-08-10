@@ -1,0 +1,10 @@
+.Image-div {
+    width: 150px;
+    padding: 10px;
+    background-color: rgb(146, 0, 122);
+    border: 1px solid black;
+}
+
+.Image-size {
+    width: 100%;
+}
